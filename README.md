@@ -6,8 +6,15 @@
 
 - I am also interested in math especially calculus and linear algebra. I try my best to work on them as a hobby. 
 
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DolphyWind&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolphyWind&hide=Makefile&langs_count=6&layout=compact)
+
+<br>
 
 ### **Other Places That You Can Find Me**
-
 [![itch.io](itch.png)](https://dolphywind.itch.io/)
 [![linkedin.com](linkedin.png)](https://www.linkedin.com/in/yunus-emre-ayd%C4%B1n-456321253/)
