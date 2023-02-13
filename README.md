@@ -1,6 +1,6 @@
 ### **Some Facts About Me**
 
-- I always had an interest about computers because they were like magic to me. I started programming in 2016 in BILSEM (Beşiktaş Bilim ve Sanat Merkezi). Since then, my passion for computers increased tremendously.
+- I have been interested in computers since I was a kid because they were like magic to me. I started coding in 2016 in BILSEM (Beşiktaş Bilim ve Sanat Merkezi). Since then, my passion for computers increased tremendously.
 
 - I love Linux! I use Arch Linux with KDE daily but I've also tried some other Linux distrubitons in Virtual Machines (like Fedora, Gentoo, Void etc). I love customizing my OS.
 
