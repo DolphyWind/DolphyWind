@@ -10,8 +10,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DolphyWind&show_icons=true&theme=tokyonight)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=DolphyWind&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolphyWind&hide=Makefile&langs_count=6&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DolphyWind&hide=Makefile&langs_count=6&layout=compact&theme=tokyonight)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DolphyWind&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ### **Other Places That You Can Find Me**
